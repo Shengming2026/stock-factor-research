@@ -1,6 +1,3 @@
-pandas
-numpy
-matplotlib
-seaborn
-tushare
-scikit-learn
+pandas>=2.0
+numpy>=1.24
+scikit-learn>=1.2
